@@ -1,0 +1,13 @@
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\bin\Debug\netcoreapp3.1\aula5.exe
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\bin\Debug\netcoreapp3.1\aula5.deps.json
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\bin\Debug\netcoreapp3.1\aula5.runtimeconfig.json
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\bin\Debug\netcoreapp3.1\aula5.runtimeconfig.dev.json
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\bin\Debug\netcoreapp3.1\aula5.dll
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\bin\Debug\netcoreapp3.1\aula5.pdb
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\obj\Debug\netcoreapp3.1\aula5.csproj.AssemblyReference.cache
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\obj\Debug\netcoreapp3.1\aula5.AssemblyInfoInputs.cache
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\obj\Debug\netcoreapp3.1\aula5.AssemblyInfo.cs
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\obj\Debug\netcoreapp3.1\aula5.csproj.CoreCompileInputs.cache
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\obj\Debug\netcoreapp3.1\aula5.dll
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\obj\Debug\netcoreapp3.1\aula5.pdb
+C:\Users\Apex05\Desktop\ferraz\aula5\aula5\obj\Debug\netcoreapp3.1\aula5.genruntimeconfig.cache
